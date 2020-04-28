@@ -1,6 +1,6 @@
 {
   "name": "r-script-bridge",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple little module for passing data from NodeJS to R (and back again).",
   "keywords": [
     "R",

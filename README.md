@@ -1,4 +1,4 @@
-# r-script
+# r-script-bridge
 
 A simple little module for passing data from NodeJS to R (and back again).
 

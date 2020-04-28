@@ -7,14 +7,14 @@
     "rstats",
     "statistics"
   ],
-  "homepage": "http://github.com/joshkatz/r-script",
-  "bugs": "http://github.com/joshkatz/r-script/issues",
+  "homepage": "https://github.com/fataltrace/r-script-bridge",
+  "bugs": "https://github.com/fataltrace/r-script-bridge/issues",
   "license": "MIT",
   "author": {
-    "name": "Josh Katz"
+    "name": "LeX?!"
   },
   "main": "index.js",
-  "repository": "joshkatz/r-script",
+  "repository": "fataltrace/r-script-bridge",
   "dependencies": {
     "underscore": "^1.8.3"
   },

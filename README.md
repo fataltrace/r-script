@@ -6,13 +6,13 @@ Data passed from node is converted into a list and loaded into the R environment
 
 ### Installation
 ```
-npm install r-script
+npm install r-script-bridge --save
 ```
 
 ### Example
 
 ```js
-var R = require("r-script");
+const R = require('r-script-bridge')
 ```
 
 ##### Synchronous
